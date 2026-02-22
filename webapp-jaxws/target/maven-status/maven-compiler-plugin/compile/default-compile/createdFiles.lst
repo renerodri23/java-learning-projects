@@ -1,0 +1,4 @@
+org\rpalacios\webapp\jaxws\models\Main.class
+org\rpalacios\webapp\jaxws\services\ServicioWs.class
+org\rpalacios\webapp\jaxws\models\Curso.class
+org\rpalacios\webapp\jaxws\services\ServiciosWsImpl.class
