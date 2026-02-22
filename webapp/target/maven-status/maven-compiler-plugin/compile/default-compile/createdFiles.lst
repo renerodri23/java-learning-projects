@@ -1,0 +1,3 @@
+org\rpalacios\webapp\servlet\HolaMundoServlet.class
+org\rpalacios\webapp\servlet\ParametrosGetServlet.class
+org\rpalacios\webapp\servlet\Main.class
